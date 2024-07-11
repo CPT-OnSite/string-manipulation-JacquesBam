@@ -1,8 +1,8 @@
 """Write a function concatenate_strings that takes two strings as input and 
 returns their concatenation."""
 def concatenate_strings(str1, str2):
-    # Your code here
-    pass
+    concatenated = str1 + str2
+    return concatenated
 
 
 """ Write a function string_length that takes a string as input and returns its length."""
