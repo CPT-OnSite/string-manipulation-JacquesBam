@@ -1,5 +1,5 @@
 import unittest
-from string_operations import (
+from strings import (
     concatenate_strings, string_length, string_slice,
     find_substring, replace_substring, remove_whitespace,
     string_to_list, list_to_string, is_palindrome
